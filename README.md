@@ -11,13 +11,13 @@ Upon reviewing the code given to me, the first thing that stood out was the exce
 ## What Does It Look Like?
 
 
-![Picture of the top of the webpage.](../assets/images/Horiseon-1.png)
+![Picture of the top of the webpage.](./assets/images/Horiseon-1.png)
 
 
-<img src="../assets/images/Horiseon-2.png"/>
+![Second Picture of the page](./assets/images/Horiseon-2.png)
 
 
-<img src="../assets/images/Horiseon-3.png"/>
+![Picture of the bottom.](./assets/images/Horiseon-3.png)
 
 
 https://jamdowns.github.io/seo-refactor-project/
