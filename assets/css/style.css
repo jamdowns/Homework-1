@@ -7,7 +7,7 @@
 body {
     background-color: #d9dcd6;
 }
-
+/* changed div to header */
 header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -19,12 +19,12 @@ h1 {
     display: inline-block;
     font-size: 48px;
 }
-
+/* changed span to abbr */
 abbr {
     color: #d9dcd6;
     text-decoration: none;
 }
-
+/* changed div class to header */
 nav {
     padding-top: 15px;
     margin-right: 20px;
@@ -40,7 +40,7 @@ a {
 p {
     font-size: 16px;
 }
-
+/* removed unneccesary selectors */
 ul {
     list-style-type: none;
 }
